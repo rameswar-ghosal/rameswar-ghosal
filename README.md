@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rameswar-ghosal
 - 👀 I’m interested in Java Software Developer role
-- 🌱 I’m currently learning Java Advance
+- 🌱 I’m currently learning Spring
 - 📫 My LinkedIn id is https://www.linkedin.com/in/rameswar-ghosal-388a41244
 
 <!---
